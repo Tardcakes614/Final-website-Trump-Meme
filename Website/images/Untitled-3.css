@@ -1,0 +1,19 @@
+@charset "utf-8";
+	.NormalCharacterStyle
+{
+	font-family : AHJ Mexico Serial;
+	font-size : 51px;
+	letter-spacing : 3.57px;
+	text-transform : uppercase;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle1
+{
+	font-family : AHJ Mexico Serial;
+	font-size : 51px;
+	letter-spacing : 3.57px;
+	text-transform : uppercase;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
